@@ -1,0 +1,17 @@
+.app{
+    display: flex;
+}
+.sliders{
+    display: flex;
+    flex-direction: column;
+    margin: 40px 10px;
+}
+.imageContainer{
+    width: 800px;
+    height: 800px;
+    border: 1px dotted red;
+    margin: 0 40px;
+}
+label{
+    color: red;
+}
